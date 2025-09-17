@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/variaveis.iml" filepath="$PROJECT_DIR$/variaveis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Curso Java.iml" filepath="$PROJECT_DIR$/Curso Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/castingconversao/castingconversao.iml" filepath="$PROJECT_DIR$/castingconversao/castingconversao.iml" />
     </modules>
   </component>
 </project>
