@@ -9,6 +9,7 @@ public class TestaWhile {
                 System.out.println(contador);
                 contador += 1;
                 //Contador = Contador + 1;
+                //contador ++;
             }
         System.out.println(contador);
     }
